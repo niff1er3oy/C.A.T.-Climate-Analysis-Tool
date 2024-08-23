@@ -1,1 +1,2 @@
-## C.A.T.-Climate-Analysis-Tool
+# C.A.T.
+## Climate Analysis Tool
